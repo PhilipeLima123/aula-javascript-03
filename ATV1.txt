@@ -1,0 +1,20 @@
+
+ATV 1
+let idade = new Boolean(false);
+
+if(idade == true){
+ console.log("Que legal! Você já pode ter a carteira de habilitação.")
+}
+  else{
+    console.log("Poxa, que pena! Você ainda não pode ter a carteira de habilitação.")
+}
+
+ATV 2
+let escola = new Boolean(false);
+
+if(escola == true){
+ console.log(" Poxa, que legal!.")
+}
+  else{
+    console.log("Falta pouco! Logo você termina")
+}
